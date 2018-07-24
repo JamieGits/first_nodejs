@@ -35,8 +35,6 @@ life.on('事件名', function (who) {
 life.on('事件名', function (who) {
     console.log('给' + who + '倒水10');
 });
-// life.on('事件名', function (who) {
-//     console.log('给' + who + '倒水');
-// });
+
 
 life.emit('事件名', '先生');
