@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="944c8e6f-38a0-4651-818a-1cc2b1ff7ba2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/async.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/call_apply.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/call_apply_extends.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/school.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/student.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school/teacher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/events/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/imooc-crawler.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,24 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="clear_cookie.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/node_test/cookie/clear_cookie.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cookie_session.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/node_test/cookie/cookie_session.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="student.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/school/student.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/school/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -85,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/http/async.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -93,8 +66,8 @@
       <file leaf-file-name="context.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/http/context.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="270">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -106,16 +79,34 @@
         <entry file="file://$PROJECT_DIR$/http/call_apply.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="call_apply_extends.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="call_apply_extends.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/http/call_apply_extends.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="234">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="imooc-crawler.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/http/imooc-crawler.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="events.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/events/events.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -169,6 +160,9 @@
         <option value="$PROJECT_DIR$/http/context.js" />
         <option value="$PROJECT_DIR$/http/call_apply.js" />
         <option value="$PROJECT_DIR$/http/call_apply_extends.js" />
+        <option value="$PROJECT_DIR$/http/imooc-crawlar.js" />
+        <option value="$PROJECT_DIR$/http/imooc-crawler.js" />
+        <option value="$PROJECT_DIR$/events/events.js" />
       </list>
     </option>
   </component>
@@ -189,10 +183,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="145" />
-    <option name="y" value="135" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1360" />
-    <option name="height" value="970" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -202,7 +196,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,14 +206,15 @@
             <path>
               <item name="first_nodejs" type="b2602c69:ProjectViewProjectNode" />
               <item name="first_nodejs" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="events" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,27 +245,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.call_apply_extends.js">
-    <configuration name="async.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="async.js" working-dir="$PROJECT_DIR$/http" />
+  <component name="RunManager" selected="Node.js.events.js">
     <configuration name="call_apply_extends.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="call_apply_extends.js" working-dir="$PROJECT_DIR$/http" />
     <configuration name="call_apply.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="call_apply.js" working-dir="$PROJECT_DIR$/http" />
     <configuration name="context.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="context.js" working-dir="$PROJECT_DIR$/http" />
-    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/school" />
+    <configuration name="events.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="events.js" working-dir="$PROJECT_DIR$/events" />
+    <configuration name="imooc-crawler.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="imooc-crawler.js" working-dir="$PROJECT_DIR$/http" />
     <list>
       <item itemvalue="Node.js.bin\www" />
-      <item itemvalue="Node.js.index.js" />
-      <item itemvalue="Node.js.async.js" />
       <item itemvalue="Node.js.context.js" />
       <item itemvalue="Node.js.call_apply.js" />
       <item itemvalue="Node.js.call_apply_extends.js" />
+      <item itemvalue="Node.js.imooc-crawler.js" />
+      <item itemvalue="Node.js.events.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.events.js" />
+        <item itemvalue="Node.js.imooc-crawler.js" />
         <item itemvalue="Node.js.call_apply_extends.js" />
         <item itemvalue="Node.js.call_apply.js" />
         <item itemvalue="Node.js.context.js" />
-        <item itemvalue="Node.js.async.js" />
-        <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +287,8 @@
       <workItem from="1531196670554" duration="2041000" />
       <workItem from="1531235309558" duration="6730000" />
       <workItem from="1532067910899" duration="1993000" />
-      <workItem from="1532312034821" duration="5647000" />
+      <workItem from="1532312034821" duration="10864000" />
+      <workItem from="1532396757015" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="server">
       <created>1530886154136</created>
@@ -358,11 +353,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531235360727</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="scott content and http">
+      <created>1532331021642</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1532331021642</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39770000" />
+    <option name="totallyTimeSpent" value="45418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -377,12 +379,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49934897" weight="0.32872927" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32673267" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32673267" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.33951497" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -440,7 +442,8 @@
     <MESSAGE value="http get" />
     <MESSAGE value="querystring to json" />
     <MESSAGE value="express server login" />
-    <option name="LAST_COMMIT_MESSAGE" value="express server login" />
+    <MESSAGE value="scott content and http" />
+    <option name="LAST_COMMIT_MESSAGE" value="scott content and http" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -448,20 +451,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/node_test/server2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/node_test/http_get.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/node_test/queryString.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -769,21 +758,21 @@
     <entry file="file://$PROJECT_DIR$/school/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/http/async.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/http/context.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="270">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -793,14 +782,28 @@
     <entry file="file://$PROJECT_DIR$/http/call_apply.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/http/call_apply_extends.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="234">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/imooc-crawler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events/events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
         </state>
       </provider>
     </entry>
